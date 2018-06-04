@@ -181,7 +181,7 @@ function doDecode() {
 	}
 }
 function copyText(){
-        var Url2=document.getElementById("phone_number").innerText;
+        var Url2=document.getElementById("m").innerText;
         var oInput = document.createElement('input');
         oInput.value = Url2;
         document.body.appendChild(oInput);
