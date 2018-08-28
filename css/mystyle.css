@@ -39,6 +39,7 @@ h1 b {
   bottom: 0;
   left:0px;
   text-align:center;
+  display:none;
 }
 
 h3 b {
